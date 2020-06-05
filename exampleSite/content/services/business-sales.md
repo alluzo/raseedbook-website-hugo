@@ -1,49 +1,55 @@
 ---
-title: Business Sales
-date: '2018-11-28T15:15:26+10:00'
+title: "Customer Management "
+date: 2018-11-28T15:15:26+10:00
 draft: false
 featured: true
 ---
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet! [Ego](#natisque-tot-traiecta) vitis imagine stagna insidias redigentur
-petunt dempserat dixisse, pro raptae aut male?
 
-- Dente reponere dixere referre excessitque seque
-- Tacui si cui inde haec ubi trepidas
-- Coniunx nulla aut
+Engage with customers before, during and after a sale is made. Create customer profiles, keep tabs on purchase habits and connect with them online and offline.
 
-## Geniti facinus praeruptam atris ab manus in
+## Customer Profile
 
-Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere
-non _tangere_ tendens corpore sed. Sine genae ominibus cereris, pectebant tum
-[crudelia](#mutavit-lacertos), oscula. Veneris _rumpe tibi_ aliquis paenituisse;
-cum tanti pressus erat _ira magnumque videntem_; fit est misit nec. Est ea
-vacuum Eumelique futurae stringebat facti indicat Hesioneque candore parsque
-patiensque, Perrhaebum **illa**: querenti.
+Set yourself apart from the competition by implementing a customer management tool that can help you build long-lasting customer relationships. Create unlimited customer profiles, add customers to orders, and track relevant information in one place.
 
-1. Deum sibi poma lacuque fateor
-2. Nisi vultibus adspicio totosque gladios a novatrix
-3. Regna ducebat
 
-_Fuit_ eurus promissaque. Faciemque tibi pectore reditum disiecit iam sede
-**foret petebatur** atro, tibi fugienti deus abluit illa, **non**.
 
-## Vidit si probetne vertitur
+How to create customer profiles
 
-In violenta et tamen praeterea populos meorum. Nos carissime Fortuna tellus aevo
-vestigia summae? Ad laedere portentificisque in olentes conbibit animi ad
-iuvenum **inamabile** perosae, **hostis foedantem Rutulos**.
+1. Go to customer from side menu
+2. Tap on New Customer
+3. Add customer details name, number etc
 
-1. Augusta exstinctus dempto repperit ut quati enim
-2. Quae illo sine fatorum
-3. Sub ut Hyadasque specus terraeque coniunx vix
-4. Voce addita est haec
-5. Stagnum pavido sanguine Priamo custodia sed
+## Import Contact List
 
-Iste gente Orpheus sua nec studiosior _et urit certe_ relevare comites vestibus?
-Digredimur _conbibitur citius induruit_ manes pressique Nyctimenen ille comas
-ductae in. Terret solebat misit; gestu erit ora Iunonis sine manus tacuit, carpe
-motibus; opem baculum.
+We know that running a business is no easy task, which is why we wouldn't want you to spend hours creating customer profiles one by one. Save time and import contacts from your phone straight into RaseedBook to create instant profiles.
+
+How to create customer profiles
+
+1. Go to customer from side menu
+2. Tap on New Customer
+3. Tap on Add from contact at top
+
+## Purchase History
+
+View your customers’ purchase history to understand better what they are buying and when they’re visiting. Know exactly when to offer them products and special sales you know they'll be interested in.
+
+
+
+How to access customer purchase history?
+
+1. Go to customer from side menu
+2. Tap on any customer
+3. Look at the customer purchase history
+
+## Customer Note
+
+Messy pen and paper note taking process is outdated. Add notes for each of your customers, additional notes help you identify customers better, notes can also context for next interaction with the customer. Simply write ‘Rs 200 due’, if payment amount is due or write ‘Adidas bag’ if customer forgot his bag in shop.
+
+
+
+How to add a customer note?
+
+1. Go to customer from side menu
+2. Across customer name press on 3 dots
+3. From edit add note in customer profile
