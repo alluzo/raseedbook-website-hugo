@@ -1,13 +1,10 @@
 ---
-title: Peter Van Eijk
-date: '2018-11-19T10:47:58+10:00'
+title: Vivek
+date: 2018-11-19T10:47:58+10:00
 image: images/team/peter-van-eijk-711986-unsplash.jpg
-jobtitle: Director
-linkedinurl: 'https://www.linkedin.com/'
+jobtitle: ""
+linkedinurl: https://www.linkedin.com/in/vvk56/
 draft: false
 weight: 1
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Vivek started as a college entrepreneur, where he ran two small businesses - a laundromat and restaurant. He did a brief stint at Volksy Tech as Product Manager before co-founding Alluzo. Vivek is an alumnus of IIM Indore.**
