@@ -1,7 +1,7 @@
 ---
 title: Vivek
-date: 2018-11-19T10:47:58+10:00
-image: images/team/peter-van-eijk-711986-unsplash.jpg
+date: 2018-11-19T00:47:58.000Z
+image: ""
 jobtitle: ""
 linkedinurl: https://www.linkedin.com/in/vvk56/
 draft: false
