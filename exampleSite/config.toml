@@ -8,25 +8,27 @@ theme = "hugo-serif-theme"
 google_analytics_id = ""
 google_tag_manager_id = ""
 
-  [params.logo]
-  standard = "images/logo.svg"
-  mobile = "images/logo-mobile.svg"
-  alt = "Serif - A Hugo Business Theme"
+[params.logo]
+standard = "images/logo.svg"
+mobile = "images/logo-mobile.svg"
+alt = "Serif - A Hugo Business Theme"
 
-  [params.homepage_meta_tags]
-  meta_description = "Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
-  meta_og_title = "Hugo Serif Theme"
-  meta_og_type = "website"
-  meta_og_url = "https://hugo-serif.netlify.com"
-  meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-serif-theme/master/images/tn.png"
-  meta_og_description = "Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
-  meta_twitter_card = "summary"
-  meta_twitter_site = "@zerostaticio"
-  meta_twitter_creator = "@zerostaticio"
+[params.homepage_meta_tags]
+meta_description = "One mobile app to create an online shop and take orders over the internet from nearby customers & manage all your in shop operations with Raseedbook app"
+meta_og_url = "https://hugo-serif.netlify.com"
+meta_twitter_creator = "@zerostaticio"
+meta_og_type = "website"
+meta_og_title = "Mobiles App for Shopkeepers "
+meta_twitter_site = "@zerostaticio"
+meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-serif-theme/master/images/tn.png"
+meta_og_description = "Run your business from your phone"
+meta_twitter_card = "summary"
+
+[menu]
 
 [[menu.main]]
-name = "Services"
-url = "/services/"
+name = "Digitising Cash Memo and Increasing Sales "
+url = "/Home/"
 weight = 1
 
 [[menu.main]]
