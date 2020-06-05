@@ -1,11 +1,10 @@
 ---
-title: Sage Kirk
-date: '2018-11-19T10:47:58+10:00'
-image: images/team/sage-kirk-485982-unsplash.jpg
-jobtitle: Accountant
-linkedinurl: ''
+title: Ashutosh
+date: 2018-11-19T10:47:58+10:00
+image: ""
+jobtitle: ""
+linkedinurl: ""
 draft: false
 weight: 2
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
+**Ashutosh, a Computer Science graduate from IIT Delhi, has had two years experience working as a software developer. His interests include building scalable software solutions, playing FIFA and running.**
