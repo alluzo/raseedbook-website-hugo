@@ -10,7 +10,7 @@ google_tag_manager_id = ""
 
 [params.logo]
 standard = "/images/icon.png"
-mobile = "images/logo-mobile.svg"
+mobile = "/images/icon.png"
 alt = "Serif - A Hugo Business Theme"
 
 [params.homepage_meta_tags]
