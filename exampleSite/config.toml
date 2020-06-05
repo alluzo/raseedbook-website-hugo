@@ -1,4 +1,4 @@
-title = "Hugo Serif Theme"
+title = "RaseedBook"
 baseURL = "www.example.com"
 languageCode = "en-us"
 themesDir = "../.."
@@ -11,24 +11,24 @@ google_tag_manager_id = ""
 [params.logo]
 standard = "/images/icon.png"
 mobile = "/images/icon.png"
-alt = "Serif - A Hugo Business Theme"
+alt = "RaseedBook Logo"
 
 [params.homepage_meta_tags]
 meta_description = "One mobile app to create an online shop and take orders over the internet from nearby customers & manage all your in shop operations with Raseedbook app"
-meta_og_url = "https://hugo-serif.netlify.com"
+meta_og_url = ""
 meta_twitter_creator = "@zerostaticio"
 meta_og_type = "website"
 meta_og_title = "Mobiles App for Shopkeepers "
 meta_twitter_site = "@zerostaticio"
-meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-serif-theme/master/images/tn.png"
+meta_og_image = ""
 meta_og_description = "Run your business from your phone"
 meta_twitter_card = "summary"
 
 [menu]
 
 [[menu.main]]
-name = "Digitising Cash Memo and Increasing Sales "
-url = "/Home/"
+name = "Services"
+url = "/Services/"
 weight = 1
 
 [[menu.main]]
