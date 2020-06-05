@@ -16,15 +16,16 @@ alt = "RaseedBook Logo"
 [params.homepage_meta_tags]
 meta_description = "One mobile app to create an online shop and take orders over the internet from nearby customers & manage all your in shop operations with Raseedbook app"
 meta_og_url = ""
-meta_twitter_creator = "@zerostaticio"
+meta_twitter_creator = ""
 meta_og_type = "website"
 meta_og_title = "Mobiles App for Shopkeepers "
-meta_twitter_site = "@zerostaticio"
+meta_twitter_site = ""
 meta_og_image = ""
 meta_og_description = "Run your business from your phone"
-meta_twitter_card = "summary"
+meta_twitter_card = ""
 
 [menu]
+footer = []
 
 [[menu.main]]
 name = "Services"
@@ -41,13 +42,3 @@ identifier = "Home"
 url = "/"
 name = "Home"
 weight = 1
-
-[[menu.footer]]
-name = "Home"
-url = "/"
-weight = 1
-
-[[menu.footer]]
-name = "Contact"
-url = "/contact/"
-weight = 2
