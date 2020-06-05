@@ -1,52 +1,51 @@
 ---
-title: Superannuation
-date: '2018-11-28T15:14:54+10:00'
+title: Operation Management
+date: 2018-11-28T15:14:54+10:00
 draft: false
 featured: true
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
 
-## Ne verba patulosque numen vix libet
+# Monitor your sales, understand past present and future of your sales. We have simplified the process for you. You can handle it all from our RaseedBook App.
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+## Staff Login
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+## Create login for your staff members to use RaseedBook in their smartphone using different accounts. It helps you manage your team in-store and or at multiple counters. Keep tabs on their sales performance, track individual transactions to see which products were sold if there was any discount given and much more.\
+\
+How to create Staff Login
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+1. Go to Manage Staff Login in Profile
+2. Add staff’s name & number
+3. Decide permissions which staff get
+4. Share details with staff on WhatsApp
 
-## Postquam tamen
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+## Daily Report
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+
+It is crucial that you develop the habit of accessing reports and understand how statistics play a role in your business’ success. Sales reports can give you an overview of how your business is doing by giving you detailed information on your sales volume.
+
+Your best-selling products report breaks down the number of items sold and revenue to help you make better purchasing decisions next time you order from suppliers.
+
+
+
+How to access report
+
+1. Go to reports from side menu
+2. Use filter to get date wise report
+3. Useayment breakdown & top selling items
+4. See staff’s report from the top right filter
+
+
+
+## Catalogue Updation -
+
+## We understand that for shops with 1000+ SKU it is annoying to add products one by one. You can message us your excel sheet, PDF or even photos of your menu and we will upload products for you.
+
+How to send Catalogue list
+
+1. Tap on three line at the left top and go to items
+2. Choose send item list
+3. WhatsApp or Email us your item list
