@@ -1,46 +1,88 @@
 ---
-title: Tax Preperation
-date: '2018-11-18T12:33:46+10:00'
+title: Billing
+date: 2018-11-18T12:33:46+10:00
 draft: false
 featured: true
 weight: 2
 ---
+ What are digital Raseed/Receipts ?
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+# DigitalRaseed/Receipts, also known asInvoice or Bill or Order Listare an environment-friendly alternative to sales slips generated.
 
-- Nata perque
-- Et ferrugine laedam
-- Cedere tandem Atlante maiestas Italicis ut forma
+## Smart Invoices
 
-Levat austroque ilia castos, postquam petit confessis ad caput, ille rerum
-precor facitote nubemque. Potuit Celadon Martem?
+## How can I send Smart Invoices to customers?\
+Using the RaseedBook app you can send FREE SMS invoices to customers.\
+\
+Just add the customer name and number before generating the invoice and we will send the customer an SMS containing invoice link. The link can open in any browser of a customer's phone.
 
-1. Imagine Assaracus victori petet femina mea haustos
-2. Sicaniam quibus agro magni
-3. In utque Troica pedum caelestia hunc tempto
-4. Gregibus certare tamen turbatque qui
+It contains\
+1. Your business information, logo, and other important information about your business.
 
-## Patulis Veneris est expulit adversaque magnum mediaque
+2. Products sold or service sold
 
-Omnis est signa cum nec inplevit vivit et insania Orpheu, an abit. Nimbi
-subversaque et micant suumque, tibi ipse; sed. **Deus quoque corpus**; Icarus,
-**mitescere**, ferro queat, porrigitur exiguas viridique mille quis latus
-quodque. Non una genuisse ullis efficiet ad corpore nunc mentesque praestant?
+3. Customer information.
 
-_Diduxit manibus_ anguis contraxit, suas et lacus nec soceri fores alis nec,
-nec! Data pater Perseu minanti animam operitur illa dolorem.
+4. Any discounts or notes about the order.
 
-Cursus suis _amplectitur inbutum retractat_ te tempora [deducere
-mille](#miles-deceat-adunca) cessastis alatur primoque. Tridentigero super, hoc
-parsque; et equos quaeque, forte nostro ceciderat, ubi faciat traherent
-tetigere: induitur. Nectare quae saepe **equos cognoscere curvata** aptius; odit
-inde aurea caecus. Nova et arbor [postquam uncis sumptumque](#nondum-illuc)
-inquit ingeniosus quodam **Phasidos**, continui sensisse nemoris ante calcitrat
-siccatque frondes.
+5. Payment method.
 
-Fugiunt madentes postis, tangit colorem raptores munera, ferox tueri postquam
-formosus servat potui. Luce ebur, pulcherrimus plus tradere! _Quam perque
-semper_?
+\
+\
+These electronic receipts are a powerful way to capture shoppers' contact information. It can also be used to promote your online shop. Digital invoice can become a powerful engagement tool.
+
+If you delete the bill from the past bill, the link becomes invalid and the customer will no longer be able to access it.\
+\
+Sample -<https://bills.raseedbook.com/bMnN05S12QnkDbjRodeA>How to generate smart invoices.\
+1. Click on new bill\
+2. Choose items from the list\
+3. Add Customer Details\
+4. Generate and Send Bill
+
+## Printable Receipts
+
+## RaseedBook app is compatible with commonly used ESC Bluetooth thermal printers, and you won’t need to have or use a computer with Microsoft Word or Excel to create your receipts. Print receipts with a professional layout, business information, customer details, and sales taxes to simplify bookkeeping.\
+\
+How to print paper bills ?
+
+1. ## Go to Bill Printing in profile
+2. ## Tap on Connect Printer
+3. ## Turn toggle to green for bill printing
+
+
+
+## Receipts in PDF
+
+### Many of your customers will ask for PDF receipts as it helps them with reimbursement and other business needs. Use RaseedBook to create PDF and directly mail it to the customer.
+
+Create PDF receipts with your logo, business information, a list of products sold or services offered, and information about down payment and payment method.\
+\
+How to generate PDF?
+
+1. Generate a new bill
+2. Click on View Bill
+3. Tap on PDF icon at top right
+4. Share PDF via email or message
+
+## WhatsApp Bills
+
+## WhatsApp bills your customers without adding their number in your contact book. Surprised? It actually works. RaseedBook makes it super easy. Tap on the WhatsApp icon and the bill goes directly to your customer’s WhatsApp with all your business details. WhatsApp bill is a great way to connect with customers.\
+\
+How to send bills on WhatsApp?
+
+1. Generate new bill
+2. Tap on Customer Icon on order card
+3. Enter customer’s Whatsapp number
+4. Tap on WhatsApp icon and send bill
+
+## Fast Checkout
+
+Item does not exist in your catalog? You can quickly add an item while billing using the New Item button. Just add the item name and price. Voila, it is added to your catalog. No need to add customer name and number everytime simply add customer from your existing list or phone contacts\
+\
+How to add items & customers quickly?
+
+1. Tap on new bill
+2. Tap on New Item at top left
+3. Add item name & price
+4. Tap on Customer Icon on generate bill screen
+5. Add customer from existing list
